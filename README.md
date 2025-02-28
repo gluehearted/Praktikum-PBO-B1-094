@@ -1,2 +1,2 @@
-PBO = Pemrograman Berbasis Objek
+PBO = Pemrograman Berbasis Objek <br>
 Mata Kuliah untuk mengenalkan OOP
